@@ -6,7 +6,7 @@ This airport is free to use. If you use this airport in a stream or other creati
 
 Current version: v0.9.2.
 
-Download link: https://github.com/guifarias31/airport-sbcx-caxias/releases/download/0.9.1/airport-sbcx-caxias.rar
+Download link: https://github.com/guifarias31/airport-sbcx-caxias/releases/download/0.9.2/airport-sbcx-caxias.rar
 
 INSTALLATION INSTRUCTIONS
 
