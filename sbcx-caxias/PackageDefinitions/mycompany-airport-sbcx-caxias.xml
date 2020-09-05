@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\mycompany-airport-sbcx-caxias\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\mycompany-airport-sbcx-caxias</OutputDir>
+			<AssetDir>PackageDefinitions\mycompany-airport-sbcx-caxias\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\mycompany-airport-sbcx-caxias\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-sbcx-caxias">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

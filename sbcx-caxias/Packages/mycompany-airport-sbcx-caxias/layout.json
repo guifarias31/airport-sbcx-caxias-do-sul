@@ -2,23 +2,23 @@
   "content": [
     {
       "path": "ContentInfo/mycompany-airport-sbcx-caxias/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132399125780000000
+      "size": 66986,
+      "date": 132437492909300523
     },
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132437461677466868
+      "date": 132437495571970391
     },
     {
       "path": "scenery/airport-sbcx-caxias.bgl",
-      "size": 10305,
-      "date": 132437462626192505
+      "size": 12549,
+      "date": 132437496363003496
     },
     {
       "path": "scenery/AIRPORT-SBCX-POLY.BGL",
-      "size": 2739,
-      "date": 132437462626407540
+      "size": 3326,
+      "date": 132437496363228536
     }
   ]
 }
