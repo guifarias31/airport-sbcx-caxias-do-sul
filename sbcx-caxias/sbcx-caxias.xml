@@ -1,0 +1,8 @@
+<Project Version="2" Name="sbcx-caxias" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\mycompany-airport-sbcx-caxias.xml</Package>
+	</Packages>
+</Project>
+
