@@ -14,6 +14,6 @@ Download link: https://github.com/guifarias31/airport-sbcx-caxias-do-sul/release
 
 INSTALLATION INSTRUCTIONS
 
-Drag the folder "airport-sixe-eldorado" into your MSFS\Community directory.
+Drag the folder "airport-sbcx-caxias" into your MSFS\Community directory.
 
 If you want to support me, here my PayPal donation link: http://bit.ly/PaypalFarias
