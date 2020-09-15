@@ -8,17 +8,2912 @@
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132437495571970391
+      "date": 132446053321012667
     },
     {
       "path": "scenery/airport-sbcx-caxias.bgl",
-      "size": 12549,
-      "date": 132437496363003496
+      "size": 10517,
+      "date": 132446046734696742
     },
     {
       "path": "scenery/AIRPORT-SBCX-POLY.BGL",
-      "size": 3326,
-      "date": 132437496363228536
+      "size": 4056,
+      "date": 132446046735036799
+    },
+    {
+      "path": "scenery/modelLib.BGL",
+      "size": 34275118,
+      "date": 132438098513181161
+    },
+    {
+      "path": "scenery/TEXTURE/BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS",
+      "size": 21968,
+      "date": 132438090118445768
+    },
+    {
+      "path": "scenery/TEXTURE/BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090118435764
+    },
+    {
+      "path": "scenery/TEXTURE/BRAVIATION.DDS.DDS",
+      "size": 22032,
+      "date": 132438120648582413
+    },
+    {
+      "path": "scenery/TEXTURE/BRAVIATION.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117150542
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_CERCA2.DDS.DDS",
+      "size": 21968,
+      "date": 132438090099342452
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_CERCA2.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090099292445
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_FENCING_CONSTRUCTION.DDS.DDS",
+      "size": 2848,
+      "date": 132438090101262782
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_FENCING_CONSTRUCTION.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090101247814
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_METAL_CORRUGATED_SHINY.DDS.DDS",
+      "size": 11048,
+      "date": 132438090101397805
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_METAL_CORRUGATED_SHINY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090101362816
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_MUROTERRENO.DDS.DDS",
+      "size": 87504,
+      "date": 132438090099767520
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA_MUROTERRENO.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090099717515
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA___FENCING_CHAIN_LINK_1.DDS.DDS",
+      "size": 21968,
+      "date": 132438090099602496
+    },
+    {
+      "path": "scenery/TEXTURE/CERCATERRENOCORRIGIDA___FENCING_CHAIN_LINK_1.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090099587492
+    },
+    {
+      "path": "scenery/TEXTURE/EAMLL_BRAV_TRUCKS.DDS.DDS",
+      "size": 699192,
+      "date": 132438090102377978
+    },
+    {
+      "path": "scenery/TEXTURE/EAMLL_BRAV_TRUCKS.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090102337969
+    },
+    {
+      "path": "scenery/TEXTURE/EAMLL_BRAV_TRUCKS_LM.DDS.DDS",
+      "size": 699192,
+      "date": 132438090102203002
+    },
+    {
+      "path": "scenery/TEXTURE/EAMLL_BRAV_TRUCKS_LM.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090102162941
+    },
+    {
+      "path": "scenery/TEXTURE/FENCING_METAL_STRAIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090116980513
+    },
+    {
+      "path": "scenery/TEXTURE/FENCING_METAL_STRAIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090116940502
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS",
+      "size": 21968,
+      "date": 132438075193732552
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075193697544
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_METAL_ROUGH.DDS.DDS",
+      "size": 11048,
+      "date": 132438075194232647
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_METAL_ROUGH.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075194222636
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_POLISHED_CONCRETE_OLD.DDS.DDS",
+      "size": 174888,
+      "date": 132438075194152634
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_POLISHED_CONCRETE_OLD.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075194122628
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTRAPORTAHANGAR2.DDS.DDS",
+      "size": 21968,
+      "date": 132438075193832569
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTRAPORTAHANGAR2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075193802572
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTRAPORTAHANGAR2_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438075194422673
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTRAPORTAHANGAR2_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075194392668
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2.DDS.DDS",
+      "size": 21968,
+      "date": 132438075194032608
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075193997596
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2SOMBRA1.DDS.DDS",
+      "size": 21968,
+      "date": 132438075194697722
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2SOMBRA1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075194687725
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2SOMBRA1_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438075193927585
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2SOMBRA1_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075193897589
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438075194612711
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TEXTURACONCRETOHANGAR2_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075194607711
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TRANSLUCENT_GLASS_TINTED.DDS.DDS",
+      "size": 21968,
+      "date": 132438075194532690
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR2_TRANSLUCENT_GLASS_TINTED.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075194497714
+    },
+    {
+      "path": "scenery/TEXTURE/METAL_CORRUGATED_SHINY.DDS.DDS",
+      "size": 11048,
+      "date": 132438090116740473
+    },
+    {
+      "path": "scenery/TEXTURE/METAL_CORRUGATED_SHINY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090116715464
+    },
+    {
+      "path": "scenery/TEXTURE/METAL_CORRUGATED_SHINY_0.DDS.DDS",
+      "size": 11048,
+      "date": 132438090117850660
+    },
+    {
+      "path": "scenery/TEXTURE/METAL_CORRUGATED_SHINY_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117840660
+    },
+    {
+      "path": "scenery/TEXTURE/METAL_ROUGH.DDS.DDS",
+      "size": 11048,
+      "date": 132438090117410582
+    },
+    {
+      "path": "scenery/TEXTURE/METAL_ROUGH.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117400579
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS.DDS.DDS",
+      "size": 131200,
+      "date": 132446005721501472
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090116590443
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS_1.DDS.DDS",
+      "size": 43808,
+      "date": 132438090118345753
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090118340747
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS_3.DDS.DDS",
+      "size": 1472,
+      "date": 132438090118150723
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS_3.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090118145712
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090118250734
+    },
+    {
+      "path": "scenery/TEXTURE/PAATEXTURAS_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090118245732
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_MADEIRA1.DDS.DDS",
+      "size": 1488,
+      "date": 132438090103543180
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_MADEIRA1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090103533179
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_MADEIRA2.DDS.DDS",
+      "size": 808,
+      "date": 132438090103803227
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_MADEIRA2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090103778217
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_MADEIRA2_0.DDS.DDS",
+      "size": 808,
+      "date": 132438090103978262
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_MADEIRA2_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090103973250
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_PATIO1CERCA.DDS.DDS",
+      "size": 1398208,
+      "date": 132438090103713208
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_PATIO1CERCA.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090103698200
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_SBCXCONC4.DDS.DDS",
+      "size": 349648,
+      "date": 132438090103348141
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_SBCXCONC4.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090103338138
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_TEXTURE.DDS.DDS",
+      "size": 174928,
+      "date": 132438121022522313
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_TEXTURE.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090103083094
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_TEXTURE_0.DDS.DDS",
+      "size": 174888,
+      "date": 132438090102763040
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_TEXTURE_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090102728039
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_WOOD_CHERRY_ORIGINAL.DDS.DDS",
+      "size": 43816,
+      "date": 132438090103908247
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO_WOOD_CHERRY_ORIGINAL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090103903238
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO___WOOD_CHERRY_ORIGINAL_1.DDS.DDS",
+      "size": 43816,
+      "date": 132438090102963075
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1ESTACIONAMENTO___WOOD_CHERRY_ORIGINAL_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090102903064
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_ALUMINUM.DDS.DDS",
+      "size": 174888,
+      "date": 132438090105368500
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_ALUMINUM.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090105338488
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_BLINDS_VERTICAL_PATTERN.DDS.DDS",
+      "size": 43816,
+      "date": 132438090105628538
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_BLINDS_VERTICAL_PATTERN.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090105613535
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_FACHADAMANUTENCAOAZUL.DDS.DDS",
+      "size": 349648,
+      "date": 132438090105098451
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_FACHADAMANUTENCAOAZUL.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090105063447
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_FACHADAMANUTEN__OGOL_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438090105518530
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_FACHADAMANUTEN__OGOL_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090105468518
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_METAL_ALUMINUM_ANODIZED.DDS.DDS",
+      "size": 43816,
+      "date": 132438090105743559
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_METAL_ALUMINUM_ANODIZED.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090105733561
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_METAL_ALUMINUM_ANODIZED_1.DDS.DDS",
+      "size": 43816,
+      "date": 132438090104753395
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_METAL_ALUMINUM_ANODIZED_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090104748393
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_METAL_CORROGATED_SHINY.DDS.DDS",
+      "size": 11048,
+      "date": 132438090104303313
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_METAL_CORROGATED_SHINY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090104273303
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_SBCXCON.DDS.DDS",
+      "size": 21968,
+      "date": 132438090104658375
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_SBCXCON.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090104633370
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAAZULMANUTEN__O.DDS.DDS",
+      "size": 2856,
+      "date": 132438090106183640
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAAZULMANUTEN__O.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090106173638
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAAZULMANUTEN__O_NIGHT.DDS.DDS",
+      "size": 2856,
+      "date": 132438090104973429
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAAZULMANUTEN__O_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090104963432
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURABRANCAMANUTEN__O.DDS.DDS",
+      "size": 349648,
+      "date": 132438090105228476
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURABRANCAMANUTEN__O.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090105193469
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURABRANCAMANUTEN__O_NIGHT1.DDS.DDS",
+      "size": 349648,
+      "date": 132438090104183289
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURABRANCAMANUTEN__O_NIGHT1.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090104148286
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURACINZAMANUTEN__O.DDS.DDS",
+      "size": 699168,
+      "date": 132438090104543362
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURACINZAMANUTEN__O.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090104518344
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURACINZAMANUTEN__OGOL_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090104423335
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURACINZAMANUTEN__OGOL_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090104398330
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAINTERIORMANUTEN__OAZUL.DDS.DDS",
+      "size": 43816,
+      "date": 132438090106398680
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAINTERIORMANUTEN__OAZUL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090106373674
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAINTERIORMANUTEN__OAZUL_0_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090106283657
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAINTERIORMANUTEN__OAZUL_0_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090106273653
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAONIXMANUTEN__O.DDS.DDS",
+      "size": 43816,
+      "date": 132438090105978604
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAONIXMANUTEN__O.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090105973599
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAONIXMANUTEN__O_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090106108631
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURAONIXMANUTEN__O_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090106073622
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURE.DDS.DDS",
+      "size": 87568,
+      "date": 132438122168716270
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURE.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090106718730
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURE_NIGHT.DDS.DDS",
+      "size": 65664,
+      "date": 132446006604003916
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_TEXTURE_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090106598711
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_WOOD__FLOOR.DDS.DDS",
+      "size": 43816,
+      "date": 132438090104883414
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL_WOOD__FLOOR.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090104853406
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL___CORROGATESHINY_.DDS.DDS",
+      "size": 11048,
+      "date": 132438090105868584
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL___CORROGATESHINY_.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090105838575
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL___CORROGATESHINY__0.DDS.DDS",
+      "size": 11048,
+      "date": 132438090106503696
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSAZUL___CORROGATESHINY__0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090106493695
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_0.DDS.DDS",
+      "size": 4194432,
+      "date": 132446005991719948
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_0.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090110759430
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_0_LM.DDS.DDS",
+      "size": 4194432,
+      "date": 132446006168380841
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_0_LM.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090110179337
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_1.DDS.DDS",
+      "size": 4194432,
+      "date": 132446006244503924
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_1.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090109169157
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_1_LM.DDS.DDS",
+      "size": 4194432,
+      "date": 132446006305479071
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_1_LM.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090110409369
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_CONCRETOESCUROCARGA.DDS.DDS",
+      "size": 1398224,
+      "date": 132438090109619231
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_CONCRETOESCUROCARGA.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090109599235
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_CONCRETOESCUROCARGA_NIGHT.DDS.DDS",
+      "size": 1398224,
+      "date": 132438090109509212
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_CONCRETOESCUROCARGA_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090109464213
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_FACHADAMETALCARGA.DDS.DDS",
+      "size": 43808,
+      "date": 132438090108083969
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_FACHADAMETALCARGA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090108043957
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_FACHADAMETALCARGA_NIGHT.DDS.DDS",
+      "size": 43808,
+      "date": 132438090110589403
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_FACHADAMETALCARGA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090110579399
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_GOLLOGCARGA.DDS.DDS",
+      "size": 349712,
+      "date": 132438122047590239
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_GOLLOGCARGA.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090110934463
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_GOLLOGCARGA_NIGHT.DDS.DDS",
+      "size": 349632,
+      "date": 132438090108489039
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_GOLLOGCARGA_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090108449032
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_MUSGOBRANCOCARGA.DDS.DDS",
+      "size": 21968,
+      "date": 132438090111059483
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_MUSGOBRANCOCARGA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090111049479
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_MUSGOBRANCOCARGA_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438090111179503
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_MUSGOBRANCOCARGA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090111169508
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SKETCHY_BRICK_MULTI.DDS.DDS",
+      "size": 21968,
+      "date": 132438090108784087
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SKETCHY_BRICK_MULTI.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090108774089
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SKETCHY_BRICK_MULTI_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438090108319006
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SKETCHY_BRICK_MULTI_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090108309003
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SOMBRABRANCACARGA.DDS.DDS",
+      "size": 21968,
+      "date": 132438090108238994
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SOMBRABRANCACARGA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090108198985
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SOMBRABRANCACARGA_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438090109739260
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_SOMBRABRANCACARGA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090109729250
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TELHADOMANUTEN__O.DDS.DDS",
+      "size": 43816,
+      "date": 132438090108919113
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TELHADOMANUTEN__O.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090108909106
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TETOMETALMANUTEN__OGOL.DDS.DDS",
+      "size": 699176,
+      "date": 132438090109949294
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TETOMETALMANUTEN__OGOL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090109929284
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TIJOLOSCARGA.DDS.DDS",
+      "size": 87504,
+      "date": 132438090108644062
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TIJOLOSCARGA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090108609063
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TIJOLOSCARGA_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090109374190
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSCARGA_TIJOLOSCARGA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090109359193
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOLCERCA_SBCXCONC4.DDS.DDS",
+      "size": 349648,
+      "date": 132438090116300395
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOLCERCA_SBCXCONC4.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090116265389
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_COLOR_001.DDS.DDS",
+      "size": 87504,
+      "date": 132438090114595099
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_COLOR_001.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090114585094
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_COLOR_A05.DDS.DDS",
+      "size": 21968,
+      "date": 132438090113154845
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_COLOR_A05.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090113139844
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_COLOR_A05_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438090113439901
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_COLOR_A05_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090113404888
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_FACHADAMANUTENCAOGOL.DDS.DDS",
+      "size": 349648,
+      "date": 132438090114100012
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_FACHADAMANUTENCAOGOL.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090114085009
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_FACHADAMANUTEN__OGOL_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438090112044659
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_FACHADAMANUTEN__OGOL_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090112034662
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_FECHADURA_BLINDADA_ELETRIC_MONTAR_RECORTAR.DDS.DDS",
+      "size": 699168,
+      "date": 132438090112749782
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_FECHADURA_BLINDADA_ELETRIC_MONTAR_RECORTAR.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090112714777
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_METAL_CORROGATED_SHINY.DDS.DDS",
+      "size": 11048,
+      "date": 132438090112459728
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_METAL_CORROGATED_SHINY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090112429733
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_METAL_RUSTED.DDS.DDS",
+      "size": 43816,
+      "date": 132438090114710117
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_METAL_RUSTED.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090114700120
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_SBCXCONC4.DDS.DDS",
+      "size": 349648,
+      "date": 132438090113844963
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_SBCXCONC4.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090113799957
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TELHADOMANUTENCAO.DDS.DDS",
+      "size": 43816,
+      "date": 132438090113279868
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TELHADOMANUTENCAO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090113269872
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TELHADOMANUTENCAO_1.DDS.DDS",
+      "size": 43816,
+      "date": 132438090113019822
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TELHADOMANUTENCAO_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090112979824
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TETOMETALMANUTENCAOGOL.DDS.DDS",
+      "size": 699176,
+      "date": 132438090115255209
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TETOMETALMANUTENCAOGOL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090115215203
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TETOMETALMANUTEN__OGOL_NIGHT.DDS.DDS",
+      "size": 699176,
+      "date": 132438090112219690
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TETOMETALMANUTEN__OGOL_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090112179685
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURABRANCAMANUTENCAO.DDS.DDS",
+      "size": 349648,
+      "date": 132438090111659594
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURABRANCAMANUTENCAO.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090111624585
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURABRANCAMANUTEN__O_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438090114490085
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURABRANCAMANUTEN__O_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090114450076
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURACINZAMANUTENCAOGOL.DDS.DDS",
+      "size": 43816,
+      "date": 132438090112614757
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURACINZAMANUTENCAOGOL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090112569751
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURACINZAMANUTEN__OGOL_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090111794609
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURACINZAMANUTEN__OGOL_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090111759609
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTENCAOAZUL.DDS.DDS",
+      "size": 43816,
+      "date": 132438090114230035
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTENCAOAZUL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090114215036
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTENCAOAZUL_0.DDS.DDS",
+      "size": 43816,
+      "date": 132438090112854795
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTENCAOAZUL_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090112844795
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTEN__OAZUL_0_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090115035171
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTEN__OAZUL_0_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090115025173
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTEN__OAZUL_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090112329707
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAINTERIORMANUTEN__OAZUL_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090112324708
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURALARANJAMANUTENCAOGOL.DDS.DDS",
+      "size": 21968,
+      "date": 132438090114345056
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURALARANJAMANUTENCAOGOL.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090114335052
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURALARANJAMANUTENCAOGOL_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438090114815134
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURALARANJAMANUTENCAOGOL_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090114805131
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAONIXMANUTEN__O_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090111929644
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL_TEXTURAONIXMANUTEN__O_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090111894632
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL___COLOR_A05_1.DDS.DDS",
+      "size": 87504,
+      "date": 132438090111504561
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL___COLOR_A05_1.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090111464553
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL___CORROGATESHINY_.DDS.DDS",
+      "size": 11048,
+      "date": 132438090113559918
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL___CORROGATESHINY_.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090113549923
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL___METAL_RUSTED_1.DDS.DDS",
+      "size": 43816,
+      "date": 132438090114925161
+    },
+    {
+      "path": "scenery/TEXTURE/PATIO1OBJETOSGOL___METAL_RUSTED_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090114915156
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BANNERAEROCLUBE.DDS.DDS",
+      "size": 174928,
+      "date": 132438121524519449
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BANNERAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075182943231
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BANNERAEROCLUBE_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075188021561
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BANNERAEROCLUBE_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188016563
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLACKTOP_NEW.DDS.DDS",
+      "size": 174888,
+      "date": 132438075188461642
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLACKTOP_NEW.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188431634
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS",
+      "size": 21968,
+      "date": 132438075191007075
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075191002075
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_ROMAN_HOBBLED_BLUE_0.DDS.DDS",
+      "size": 21968,
+      "date": 132438075190376967
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_ROMAN_HOBBLED_BLUE_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190371966
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_VERTICAL_STRIPE_GRAY.DDS.DDS",
+      "size": 43816,
+      "date": 132438075191402145
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_VERTICAL_STRIPE_GRAY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075191392144
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_VERTICAL_STRIPE_GRAY_0.DDS.DDS",
+      "size": 43816,
+      "date": 132438075189981900
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BLINDS_VERTICAL_STRIPE_GRAY_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189971897
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BRICK_ROUGH_TAN.DDS.DDS",
+      "size": 43816,
+      "date": 132438075189286789
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BRICK_ROUGH_TAN.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189276790
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BRICK_TUMBLED.DDS.DDS",
+      "size": 21968,
+      "date": 132438075185516128
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_BRICK_TUMBLED.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075185486123
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CARPET_PATTERN_LEAFSQUARES_TAN.DDS.DDS",
+      "size": 87504,
+      "date": 132438075189366800
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CARPET_PATTERN_LEAFSQUARES_TAN.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189361796
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA1.DDS.DDS",
+      "size": 699176,
+      "date": 132438075182768195
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075182733199
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA1_2.DDS.DDS",
+      "size": 21888,
+      "date": 132438075190461992
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA1_2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190456994
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA1_NIGHT.DDS.DDS",
+      "size": 699176,
+      "date": 132438075184938569
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA1_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075184903560
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA2.DDS.DDS",
+      "size": 699176,
+      "date": 132438075189741870
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189706858
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA2_NIGHT.DDS.DDS",
+      "size": 699176,
+      "date": 132438075185093596
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CONCRETOSOMBRA2_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075185083595
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE.DDS.DDS",
+      "size": 87504,
+      "date": 132438075188526653
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188521649
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBEINTERIOR.DDS.DDS",
+      "size": 1398224,
+      "date": 132438075189096755
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBEINTERIOR.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075189056784
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBEINTERIOR_3.DDS.DDS",
+      "size": 174888,
+      "date": 132438075183383299
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBEINTERIOR_3.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075183353295
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBEINTERIOR_4_NIGHT.DDS.DDS",
+      "size": 174888,
+      "date": 132438075187321445
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBEINTERIOR_4_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187296442
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA1.DDS.DDS",
+      "size": 87504,
+      "date": 132438075186871365
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075186861367
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA1_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075190787036
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA1_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190777035
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA2.DDS.DDS",
+      "size": 87504,
+      "date": 132438075190291954
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190281951
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA2_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075188766687
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBESOMBRA2_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188731688
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE_LIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075187741514
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE_LIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187736515
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE_LIGHTA.DDS.DDS",
+      "size": 87504,
+      "date": 132438075188136586
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE_LIGHTA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188111580
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075182368122
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAEROCLUBE_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075182333116
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAZULAEROCLUBEINTERIOR.DDS.DDS",
+      "size": 2848,
+      "date": 132438075190071915
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAAZULAEROCLUBEINTERIOR.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190041910
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAHANGARINTERIOR.DDS.DDS",
+      "size": 87504,
+      "date": 132438075185281089
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAHANGARINTERIOR.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075185276088
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAHANGARINTERIOR_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075188841708
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORCLARAHANGARINTERIOR_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188831704
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBE.DDS.DDS",
+      "size": 699176,
+      "date": 132438075183153269
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075183118255
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBEINTERIOR.DDS.DDS",
+      "size": 800,
+      "date": 132438075187606492
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBEINTERIOR.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187601487
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBEINTERIOR_NIGHT.DDS.DDS",
+      "size": 800,
+      "date": 132438075187666500
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBEINTERIOR_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187661500
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBE_NIGHT.DDS.DDS",
+      "size": 699176,
+      "date": 132438075184558503
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_CORESCURAAEROCLUBE_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075184518500
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_FAIXADAAEROCLUBE.DDS.DDS",
+      "size": 2856,
+      "date": 132438075187081397
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_FAIXADAAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187071398
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_JANELASAZULAEROCLUBE.DDS.DDS",
+      "size": 21968,
+      "date": 132438075185163607
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_JANELASAZULAEROCLUBE.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075185153603
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_LAMPADA.DDS.DDS",
+      "size": 11048,
+      "date": 132438075187946551
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_LAMPADA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187936545
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_LAMPADA_NIGHT.DDS.DDS",
+      "size": 11048,
+      "date": 132438075187221428
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_LAMPADA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187211422
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_METAL_CORRUGATED_SHINY.DDS.DDS",
+      "size": 11048,
+      "date": 132438075189906889
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_METAL_CORRUGATED_SHINY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189896885
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_METAL_CORRUGATED_SHINY_1.DDS.DDS",
+      "size": 11048,
+      "date": 132438075190136925
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_METAL_CORRUGATED_SHINY_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190126934
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_METAL_STEEL_TEXTURED.DDS.DDS",
+      "size": 43816,
+      "date": 132438075182548159
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_METAL_STEEL_TEXTURED.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075182513153
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PAREDEENVELHECIDAAEROCLUBE.DDS.DDS",
+      "size": 43816,
+      "date": 132438075184633516
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PAREDEENVELHECIDAAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075184623512
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PAREDEENVELHECIDAAEROCLUBE_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438075190216942
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PAREDEENVELHECIDAAEROCLUBE_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190206937
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PAREDEINTERNAAEROCLUBE.DDS.DDS",
+      "size": 174880,
+      "date": 132438075190567003
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PAREDEINTERNAAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190537006
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PORTASAEROCLUBE.DDS.DDS",
+      "size": 349648,
+      "date": 132438075185646146
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_PORTASAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075185611140
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_P_TIO2PORTA_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438075189466820
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_P_TIO2PORTA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189456818
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_REBORDAAZULAEROCLUBE.DDS.DDS",
+      "size": 21968,
+      "date": 132438075189841874
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_REBORDAAZULAEROCLUBE.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075189806871
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_REBORDAAZULAEROCLUBE_1.DDS.DDS",
+      "size": 87424,
+      "date": 132438075186021218
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_REBORDAAZULAEROCLUBE_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075186011215
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_REBORDAAZULAEROCLUBE_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438075191237123
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_REBORDAAZULAEROCLUBE_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075191197116
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_STONE_MASONRY_MULTI.DDS.DDS",
+      "size": 43816,
+      "date": 132438075188351619
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_STONE_MASONRY_MULTI.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075188341619
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_STONE_MASONRY_MULTI_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438075184763537
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_STONE_MASONRY_MULTI_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075184733532
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TELHADOAEROCLUBE.DDS.DDS",
+      "size": 349648,
+      "date": 132438075191127103
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TELHADOAEROCLUBE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075191112098
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TELHADOAEROCLUBE2.DDS.DDS",
+      "size": 174888,
+      "date": 132438075183503332
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TELHADOAEROCLUBE2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075183473324
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TELHADOAEROCLUBE2_NIGHT.DDS.DDS",
+      "size": 174888,
+      "date": 132438075185926200
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TELHADOAEROCLUBE2_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075185896192
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE.DDS.DDS",
+      "size": 349632,
+      "date": 132438075182873211
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075182838206
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE_1.DDS.DDS",
+      "size": 174928,
+      "date": 132438121335561657
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090125311955
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE_1_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075189566838
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE_1_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189531820
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE_2.DDS.DDS",
+      "size": 87536,
+      "date": 132438121153285019
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TEXTURE_2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090121711337
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TRANSLUCENT_GLASS_GOLD.DDS.DDS",
+      "size": 21968,
+      "date": 132438075187151407
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_TRANSLUCENT_GLASS_GOLD.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075187141410
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_WATER_POOL.DDS.DDS",
+      "size": 87504,
+      "date": 132438075187811528
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE_WATER_POOL.DDS.DDS.json",
+      "size": 119,
+      "date": 132438075187801527
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_1.DDS.DDS",
+      "size": 11008,
+      "date": 132438075187541482
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187536479
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_2.DDS.DDS",
+      "size": 11008,
+      "date": 132438075190932061
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075190922059
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_3.DDS.DDS",
+      "size": 11008,
+      "date": 132438075186106232
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_3.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075186076230
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_4.DDS.DDS",
+      "size": 11008,
+      "date": 132438075187881539
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___BLINDS_WOOD_WHITE_4.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075187871537
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___METAL_CORRUGATED_SHINY_1.DDS.DDS",
+      "size": 11048,
+      "date": 132438075185806180
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___METAL_CORRUGATED_SHINY_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075185796180
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___METAL_STEEL_TEXTURED_1.DDS.DDS",
+      "size": 43816,
+      "date": 132438075189176773
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___METAL_STEEL_TEXTURED_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075189166763
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___METAL_STEEL_TEXTURED_1_4.DDS.DDS",
+      "size": 43816,
+      "date": 132438075183228272
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXAEROCLUBE___METAL_STEEL_TEXTURED_1_4.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075183218270
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO.DDS.DDS",
+      "size": 87504,
+      "date": 132438090125506995
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090125476984
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090125632021
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090125622005
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXTERMINALTELHADO.DDS.DDS",
+      "size": 349648,
+      "date": 132438090125827048
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXTERMINALTELHADO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090125812051
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCON.DDS.DDS",
+      "size": 43808,
+      "date": 132438090116855499
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCON.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090116830487
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCON3.DDS.DDS",
+      "size": 21968,
+      "date": 132438090117610623
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCON3.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117605621
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCON3_2.DDS.DDS",
+      "size": 21968,
+      "date": 132438090118060701
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCON3_2.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090118055695
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCONC1.DDS.DDS",
+      "size": 174888,
+      "date": 132438090117745646
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXCONC1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117735642
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_0.DDS.DDS",
+      "size": 4194432,
+      "date": 132446005101601242
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_0.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090128852574
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_0_LM.DDS.DDS",
+      "size": 4194432,
+      "date": 132446005172421495
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_0_LM.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090128187458
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_1.DDS.DDS",
+      "size": 4194432,
+      "date": 132446005262695400
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_1.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090126827228
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_1_LM.DDS.DDS",
+      "size": 4194432,
+      "date": 132446005350933053
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_1_LM.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090127947415
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_BLACKTOP_OLD_01.DDS.DDS",
+      "size": 349648,
+      "date": 132438090127287300
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_BLACKTOP_OLD_01.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090127277298
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_BLACKTOP_OLD_01A.DDS.DDS",
+      "size": 349648,
+      "date": 132438090127182281
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_BLACKTOP_OLD_01A.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090127152278
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_METAL_STEEL_TEXTURED_WHITE.DDS.DDS",
+      "size": 43816,
+      "date": 132438090129327655
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_METAL_STEEL_TEXTURED_WHITE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129317652
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_MUSGO.DDS.DDS",
+      "size": 87504,
+      "date": 132438090127632361
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_MUSGO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090127607354
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_MUSGO_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090129987770
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_MUSGO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129977765
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2AZULCLARO.DDS.DDS",
+      "size": 21968,
+      "date": 132438090129557699
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2AZULCLARO.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090129547693
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2AZULCLARO_NIGHT.DDS.DDS",
+      "size": 21968,
+      "date": 132438090127397321
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2AZULCLARO_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090127372313
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2FORO.DDS.DDS",
+      "size": 5584,
+      "date": 132438090130197802
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2FORO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090130187802
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2FORO_NIGHT.DDS.DDS",
+      "size": 5584,
+      "date": 132438090126677190
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2FORO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090126642196
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2HANGARRANDONCOLOMBO.DDS.DDS",
+      "size": 5584,
+      "date": 132438090128707548
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2HANGARRANDONCOLOMBO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090128697544
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2HANGARRANDONCOLOMBO_NIGHT.DDS.DDS",
+      "size": 5584,
+      "date": 132438090129117620
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2HANGARRANDONCOLOMBO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129107614
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2PORTA.DDS.DDS",
+      "size": 349648,
+      "date": 132438090129462678
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2PORTA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129452676
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2PORTA_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438090128607533
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2PORTA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090128577527
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TELHADO2.DDS.DDS",
+      "size": 349648,
+      "date": 132438090127757382
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TELHADO2.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090127727377
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TEXTURAINTERIOR_1.DDS.DDS",
+      "size": 87504,
+      "date": 132438090130102791
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TEXTURAINTERIOR_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090130092786
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TEXTURAINTERIOR_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090129222638
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TEXTURAINTERIOR_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129212632
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TIJOLOS.DDS.DDS",
+      "size": 87504,
+      "date": 132438090128447503
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TIJOLOS.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090128437501
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TIJOLOS_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090127502339
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_P_TIO2TIJOLOS_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090127492334
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_QUARTZ_LIGHT_GREY.DDS.DDS",
+      "size": 174888,
+      "date": 132438090129027603
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_QUARTZ_LIGHT_GREY.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129017600
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_TIJOLOSSOMBRA.DDS.DDS",
+      "size": 87504,
+      "date": 132438090127042259
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_TIJOLOSSOMBRA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090127012255
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_TIJOLOSSOMBRA_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438090128332483
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_TIJOLOSSOMBRA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090128327475
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2___METAL_CORRUGATED_SHINY_1.DDS.DDS",
+      "size": 11048,
+      "date": 132438090129667720
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2___METAL_CORRUGATED_SHINY_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090129642709
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_BRICK_ANTIQUE_02.DDS.DDS",
+      "size": 349648,
+      "date": 132438075199401617
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_BRICK_ANTIQUE_02.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199396616
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_BRICK_ANTIQUE_02_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438075197936365
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_BRICK_ANTIQUE_02_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197926359
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_CIMENTOHANGARBRIGADA.DDS.DDS",
+      "size": 43816,
+      "date": 132438075195871007
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_CIMENTOHANGARBRIGADA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075195841006
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_CIMENTOHANGARBRIGADA_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438075198191409
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_CIMENTOHANGARBRIGADA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198176422
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MATERIALPORTAHANGARMEIO.DDS.DDS",
+      "size": 43808,
+      "date": 132438075197446286
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MATERIALPORTAHANGARMEIO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197441285
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MATERIALPORTAHANGARMEIO_NIGHT.DDS.DDS",
+      "size": 43808,
+      "date": 132438075196876182
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MATERIALPORTAHANGARMEIO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075196846181
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_METAL_SEAMED.DDS.DDS",
+      "size": 11048,
+      "date": 132438075199471638
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_METAL_SEAMED.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199461630
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_METAL_SEAMED_NIGHT.DDS.DDS",
+      "size": 11048,
+      "date": 132438075199691677
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_METAL_SEAMED_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199681677
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_METAL_STEEL_TEXTURED_WHITE.DDS.DDS",
+      "size": 43816,
+      "date": 132438075198656498
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_METAL_STEEL_TEXTURED_WHITE.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198651501
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MUSGO.DDS.DDS",
+      "size": 349648,
+      "date": 132438075197016208
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MUSGO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075196981218
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MUSGO_NIGHT.DDS.DDS",
+      "size": 349648,
+      "date": 132438075198376455
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_MUSGO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198366454
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGAR3.DDS.DDS",
+      "size": 43816,
+      "date": 132438075198906531
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGAR3.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198896528
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGAR3_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438075197376269
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGAR3_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197346275
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARBRIGADA.DDS.DDS",
+      "size": 174928,
+      "date": 132438121794131251
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARBRIGADA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199046553
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARBRIGADA_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075199626657
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARBRIGADA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199616653
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARMEIO.DDS.DDS",
+      "size": 43808,
+      "date": 132438075199121570
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARMEIO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199116571
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARMEIO_NIGHT.DDS.DDS",
+      "size": 43808,
+      "date": 132438075197586310
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_PORTAHANGARMEIO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197576320
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAHANGARMEIO.DDS.DDS",
+      "size": 349648,
+      "date": 132438075198476473
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAHANGARMEIO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198466466
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURASOMBRAHANGARBRIGADA.DDS.DDS",
+      "size": 87504,
+      "date": 132438075197276259
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURASOMBRAHANGARBRIGADA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197266253
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURASOMBRAHANGARBRIGADA_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075198576492
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURASOMBRAHANGARBRIGADA_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198571481
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURATELHADOHANGAR3.DDS.DDS",
+      "size": 11048,
+      "date": 132438075197821345
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURATELHADOHANGAR3.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197811344
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURATELHADOHANGARBRIGADA.DDS.DDS",
+      "size": 43816,
+      "date": 132438075197116231
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURATELHADOHANGARBRIGADA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197081222
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURATELHADOHANGARMEIO.DDS.DDS",
+      "size": 21968,
+      "date": 132438075198971543
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURATELHADOHANGARMEIO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198966540
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAZINCOHANGARBRIGADA.DDS.DDS",
+      "size": 5584,
+      "date": 132438075197186242
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAZINCOHANGARBRIGADA.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075197176240
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAZINCOHANGARBRIGADA_0.DDS.DDS",
+      "size": 5584,
+      "date": 132438075195966023
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAZINCOHANGARBRIGADA_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075195936021
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAZINCOHANGARBRIGADA_0_NIGHT.DDS.DDS",
+      "size": 5584,
+      "date": 132438075198016389
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA_TEXTURAZINCOHANGARBRIGADA_0_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198006380
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESCONCRETOVELHO.DDS.DDS",
+      "size": 43816,
+      "date": 132438075199261592
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESCONCRETOVELHO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199251589
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESCONCRETOVELHO_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438075199551649
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESCONCRETOVELHO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075199541643
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESTIJOLOSBRIGADAMUSGO.DDS.DDS",
+      "size": 87504,
+      "date": 132438075198836520
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESTIJOLOSBRIGADAMUSGO.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198801516
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESTIJOLOSBRIGADAMUSGO_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075198111404
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA__3HANGARESTIJOLOSBRIGADAMUSGO_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198086398
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA___BRICK_ANTIQUE_01_1.DDS.DDS",
+      "size": 87504,
+      "date": 132438075196076054
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA___BRICK_ANTIQUE_01_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075196046048
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA___BRICK_ANTIQUE_01_1_NIGHT.DDS.DDS",
+      "size": 87504,
+      "date": 132438075198271432
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA___BRICK_ANTIQUE_01_1_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198261423
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA___CONCRETE_STAMPED_ASHLAR_1.DDS.DDS",
+      "size": 43816,
+      "date": 132438075198731509
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXPATIOBRIGADA___CONCRETE_STAMPED_ASHLAR_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132438075198721503
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_BLINDS_VERTICAL_PATTERN.DDS.DDS",
+      "size": 43816,
+      "date": 132446055670017210
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_BLINDS_VERTICAL_PATTERN.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669987207
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_BLINDS_VERTICAL_PATTERN_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132446055671047381
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_BLINDS_VERTICAL_PATTERN_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055671022376
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_FORMICA_BLUE.DDS.DDS",
+      "size": 43816,
+      "date": 132446055672812700
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_FORMICA_BLUE.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055672777688
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_FORMICA_BLUE_0.DDS.DDS",
+      "size": 43816,
+      "date": 132446055670322262
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_FORMICA_BLUE_0.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670297259
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_FORMICA_BLUE_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132446055668917014
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_FORMICA_BLUE_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668887004
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_HAIR1.DDS.DDS",
+      "size": 43816,
+      "date": 132446055669007030
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_HAIR1.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668977023
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_HAIR1_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132446055668266902
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_HAIR1_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668241892
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__2.DDS.DDS",
+      "size": 174888,
+      "date": 132446055670532297
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__2.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670502293
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__2_NIGHT.DDS.DDS",
+      "size": 174888,
+      "date": 132446055669537130
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__2_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669502117
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__5.DDS.DDS",
+      "size": 43816,
+      "date": 132446055671607487
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__5.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055671582480
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__5A.DDS.DDS",
+      "size": 43816,
+      "date": 132446055669332088
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MATERIAL__5A.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669302079
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_METAL_ALUMINUM_ANODIZED.DDS.DDS",
+      "size": 43816,
+      "date": 132446055670102223
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_METAL_ALUMINUM_ANODIZED.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670077221
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_METAL_CORROGATED_SHINY.DDS.DDS",
+      "size": 11048,
+      "date": 132446055670752336
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_METAL_CORROGATED_SHINY.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670722329
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MIRROR_01.DDS.DDS",
+      "size": 174888,
+      "date": 132446055668451932
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MIRROR_01.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668426927
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MIRROR_01_1.DDS.DDS",
+      "size": 174888,
+      "date": 132446055669637144
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_MIRROR_01_1.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669607134
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_M_RMORE.DDS.DDS",
+      "size": 87504,
+      "date": 132446055671832524
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_M_RMORE.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055671802515
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_PLANTAFACHADA.DDS.DDS",
+      "size": 174880,
+      "date": 132446055669422094
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_PLANTAFACHADA.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055669392089
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_QUARTZ_LIGHT_GREY.DDS.DDS",
+      "size": 87504,
+      "date": 132446055671517468
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_QUARTZ_LIGHT_GREY.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055671487460
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_QUARTZ_LIGHT_GREY_3.DDS.DDS",
+      "size": 87504,
+      "date": 132446055668726981
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_QUARTZ_LIGHT_GREY_3.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668696971
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_ROLHA.DDS.DDS",
+      "size": 21968,
+      "date": 132446055668636964
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_ROLHA.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668611956
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_ROSCA.DDS.DDS",
+      "size": 11040,
+      "date": 132446055670232247
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_ROSCA.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055670202236
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXAMARELOSOLO.DDS.DDS",
+      "size": 43816,
+      "date": 132446055672907713
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXAMARELOSOLO.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055672872706
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXAZULADESIVO.DDS.DDS",
+      "size": 2097280,
+      "date": 132446055671157400
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXAZULADESIVO.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055671117392
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXAZULADESIVO_NIGHT.DDS.DDS",
+      "size": 2097280,
+      "date": 132446055670852353
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXAZULADESIVO_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055670817342
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS.DDS.DDS",
+      "size": 262272,
+      "date": 132446055669927196
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669897186
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_5.DDS.DDS",
+      "size": 11048,
+      "date": 132446055668181888
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_5.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668151875
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_5_NIGHT.DDS.DDS",
+      "size": 11048,
+      "date": 132446055671327436
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_5_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055671297426
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_6.DDS.DDS",
+      "size": 11048,
+      "date": 132446055671242415
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_6.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055671212410
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_6_NIGHT.DDS.DDS",
+      "size": 11048,
+      "date": 132446055673002732
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_6_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055672967722
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_7.DDS.DDS",
+      "size": 8320,
+      "date": 132446055669122049
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_7.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669067048
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_7_NIGHT.DDS.DDS",
+      "size": 8320,
+      "date": 132446055668101871
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_7_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668061859
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_NIGHT.DDS.DDS",
+      "size": 262272,
+      "date": 132446055673292781
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXPLACAS_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055673262767
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINAL.DDS.DDS",
+      "size": 131200,
+      "date": 132446055669832177
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINAL.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669797171
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINALINTERIOR.DDS.DDS",
+      "size": 1398224,
+      "date": 132446055671427449
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINALINTERIOR.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055671392450
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINALTELHADO.DDS.DDS",
+      "size": 349648,
+      "date": 132446055670662319
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINALTELHADO.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670632313
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINAL_NIGHT.DDS.DDS",
+      "size": 131200,
+      "date": 132446055669732159
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_SBCXTERMINAL_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669707157
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STEEL_BRUSHED_STAINLESS.DDS.DDS",
+      "size": 174888,
+      "date": 132446055670962377
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STEEL_BRUSHED_STAINLESS.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670932374
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STEEL_BRUSHED_STAINLESS_2.DDS.DDS",
+      "size": 174888,
+      "date": 132446055669237069
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STEEL_BRUSHED_STAINLESS_2.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055669202063
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STONE_MASONRY_MULTI.DDS.DDS",
+      "size": 43816,
+      "date": 132446055668351912
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STONE_MASONRY_MULTI.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055668326906
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STONE_MASONRY_MULTI_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132446055670417277
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_STONE_MASONRY_MULTI_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055670387269
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TETOMETALMANUTEN__OGOL.DDS.DDS",
+      "size": 699176,
+      "date": 132446055673202764
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TETOMETALMANUTEN__OGOL.DDS.DDS.json",
+      "size": 102,
+      "date": 132446055673167761
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TEXTURAINTERIORMANUTEN__OAZUL.DDS.DDS",
+      "size": 1398224,
+      "date": 132446055668551949
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TEXTURAINTERIORMANUTEN__OAZUL.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055668521940
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TEXTURAINTERIORTERMINAL_NIGHT.DDS.DDS",
+      "size": 1398224,
+      "date": 132446055668826997
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TEXTURAINTERIORTERMINAL_NIGHT.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055668796988
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TRANSLUCENT_GLASS_GOLD.DDS.DDS",
+      "size": 174880,
+      "date": 132446055671932541
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TRANSLUCENT_GLASS_GOLD.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055671897532
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TRANSLUCENT_GLASS_SKY_REFLECTION.DDS.DDS",
+      "size": 21968,
+      "date": 132446055671692502
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TRANSLUCENT_GLASS_SKY_REFLECTION.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055671662492
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TRANSLUCENT_GLASS_SKY_REFLECTION_4.DDS.DDS",
+      "size": 21968,
+      "date": 132446055673377794
+    },
+    {
+      "path": "scenery/TEXTURE/SBCXTERMINAL_TRANSLUCENT_GLASS_SKY_REFLECTION_4.DDS.DDS.json",
+      "size": 119,
+      "date": 132446055673347786
+    },
+    {
+      "path": "scenery/TEXTURE/TELHADOMANUTEN__O.DDS.DDS",
+      "size": 43816,
+      "date": 132438090117955687
+    },
+    {
+      "path": "scenery/TEXTURE/TELHADOMANUTEN__O.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117945679
+    },
+    {
+      "path": "scenery/TEXTURE/TEXTURAINTERIORMANUTEN__OAZUL.DDS.DDS",
+      "size": 43816,
+      "date": 132438090117225554
+    },
+    {
+      "path": "scenery/TEXTURE/TEXTURAINTERIORMANUTEN__OAZUL.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117215550
+    },
+    {
+      "path": "scenery/TEXTURE/TEXTURAINTERIORMANUTEN__OAZUL_NIGHT.DDS.DDS",
+      "size": 43816,
+      "date": 132438090117090533
+    },
+    {
+      "path": "scenery/TEXTURE/TEXTURAINTERIORMANUTEN__OAZUL_NIGHT.DDS.DDS.json",
+      "size": 102,
+      "date": 132438090117065525
+    },
+    {
+      "path": "scenery/TEXTURE/TRANSLUCENT_GLASS_TINTED.DDS.DDS",
+      "size": 21968,
+      "date": 132438090118555791
+    },
+    {
+      "path": "scenery/TEXTURE/TRANSLUCENT_GLASS_TINTED.DDS.DDS.json",
+      "size": 119,
+      "date": 132438090118530782
     }
   ]
 }
