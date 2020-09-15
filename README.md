@@ -10,8 +10,6 @@ Current version: v0.9.4. Image previews of 0.9.3 here: https://imgur.com/a/EF0DG
 
 (I was not able to convert some textures, so there are some missing textures)
 
-Download link: https://github.com/guifarias31/airport-sbcx-caxias-do-sul/releases/download/0.9.3/airport-sbcx-caxias.rar
-
 INSTALLATION INSTRUCTIONS
 
 Drag the folder "airport-sbcx-caxias" into your MSFS\Community directory.
