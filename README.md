@@ -6,9 +6,7 @@ Converted by: GuiFarias31
 
 This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
 
-Current version: v0.9.4. Image previews of 0.9.3 here: https://imgur.com/a/EF0DGqx
-
-(I was not able to convert some textures, so there are some missing textures)
+Current version: v0.9.4. Image previews here: https://imgur.com/a/DF7rjSU
 
 INSTALLATION INSTRUCTIONS
 
