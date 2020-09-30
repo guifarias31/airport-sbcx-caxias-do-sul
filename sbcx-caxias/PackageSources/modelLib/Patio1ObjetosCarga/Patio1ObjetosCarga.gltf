@@ -95,7 +95,7 @@
           },
           "indices": 3,
           "mode": 4,
-          "material": 2
+          "material": 0
         }
       ],
       "name": "part000"
@@ -275,7 +275,7 @@
           },
           "indices": 51,
           "mode": 4,
-          "material": 0
+          "material": 2
         }
       ],
       "name": "part012"
@@ -786,7 +786,7 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 0
@@ -806,16 +806,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 0
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 1
@@ -829,7 +829,7 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 0
@@ -849,16 +849,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 2
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 3
@@ -872,16 +872,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 4
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 5
@@ -895,16 +895,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 6
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 7
@@ -918,16 +918,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 8
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 9
@@ -941,16 +941,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 10
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 11
@@ -964,16 +964,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 12
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 13
@@ -987,16 +987,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 14
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 15
@@ -1010,7 +1010,7 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 16
@@ -1030,7 +1030,7 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 17
@@ -1050,16 +1050,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 18
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 19

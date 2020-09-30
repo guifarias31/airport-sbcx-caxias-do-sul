@@ -7,13 +7,13 @@
     },
     {
       "path": "manifest.json",
-      "size": 271,
-      "date": 132446053321012667
+      "size": 279,
+      "date": 132459016273778127
     },
     {
       "path": "scenery/airport-sbcx-caxias.bgl",
       "size": 10517,
-      "date": 132446046734696742
+      "date": 132459011415715077
     },
     {
       "path": "scenery/AIRPORT-SBCX-POLY.BGL",
@@ -22,8 +22,13 @@
     },
     {
       "path": "scenery/modelLib.BGL",
-      "size": 34275118,
-      "date": 132438098513181161
+      "size": 34271110,
+      "date": 132459016272667439
+    },
+    {
+      "path": "scenery/scenery/global/scenery/modelLib.BGL",
+      "size": 34271110,
+      "date": 132459614621270905
     },
     {
       "path": "scenery/TEXTURE/BLINDS_ROMAN_HOBBLED_BLUE.DDS.DDS",
@@ -117,8 +122,8 @@
     },
     {
       "path": "scenery/TEXTURE/FENCING_METAL_STRAIGHT.DDS.DDS",
-      "size": 87504,
-      "date": 132438090116980513
+      "size": 65664,
+      "date": 132446164398173373
     },
     {
       "path": "scenery/TEXTURE/FENCING_METAL_STRAIGHT.DDS.DDS.json",
@@ -1757,8 +1762,8 @@
     },
     {
       "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO.DDS.DDS",
-      "size": 87504,
-      "date": 132438090125506995
+      "size": 131200,
+      "date": 132446166203356307
     },
     {
       "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO.DDS.DDS.json",
@@ -1767,8 +1772,8 @@
     },
     {
       "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO_NIGHT.DDS.DDS",
-      "size": 87504,
-      "date": 132438090125632021
+      "size": 131200,
+      "date": 132446166295412044
     },
     {
       "path": "scenery/TEXTURE/SBCXALMOXARIFADO_SBCXALMOXARIFADO_NIGHT.DDS.DDS.json",
@@ -1828,7 +1833,7 @@
     {
       "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_0.DDS.DDS",
       "size": 4194432,
-      "date": 132446005101601242
+      "date": 132446170810621484
     },
     {
       "path": "scenery/TEXTURE/SBCXPATIO2_SBCXPATIO2_0.DDS.DDS.json",
